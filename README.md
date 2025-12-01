@@ -15,9 +15,6 @@
 
 - 📄 Know about my experiences [https://github.com/sejaldharpale-svg/Resume-Technical-Support-Analyst-](https://github.com/sejaldharpale-svg/Resume-Technical-Support-Analyst-)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaldharpale-svg&show_icons=true&locale=en&layout=compact"  /></p>
-# -SejalDharpale
+
+
