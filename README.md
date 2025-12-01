@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sejaldharpale-svg/SejalDharpale](https://github.com/sejaldharpale-svg/SejalDharpale)
 
-- 💬 Ask me about **Networking ,IT Support & Troubleshooting,Ethical HAcking Basics**
+- 💬 Ask me about **Networking ,IT Support & Troubleshooting,Ethical Hacking Basics**
 
 - 📫 How to reach me **sejaldharpale@gmail.com**
 
@@ -19,5 +19,5 @@
 <p align="left">
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaldharpale-svg&show_icons=true&locale=en&layout=compact" alt="Sejal Sunil Dharpale" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sejaldharpale-svg&show_icons=true&locale=en&layout=compact"  /></p>
 # -SejalDharpale
